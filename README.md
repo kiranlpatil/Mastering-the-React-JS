@@ -1,7 +1,7 @@
-# Master the React JS using this repository code base. 
+# Master the React JS. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-beginner to Pro
+Beginner to Pro
 ## Available Scripts
 
 In the project directory, you can run:
